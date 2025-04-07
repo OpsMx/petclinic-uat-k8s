@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-petclinic-apple
-  newTag: 14-nocritical
+- name: docker.io/opsmx11/dev-petclinic-sunbit
+  newTag: 1-nocritical
