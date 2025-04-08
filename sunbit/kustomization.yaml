@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmx11/dev-petclinic-sunbit
-  newTag: 38-nocritical
+  newTag: 39-critical
