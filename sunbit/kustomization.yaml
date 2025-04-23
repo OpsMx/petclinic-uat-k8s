@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-petclinic-sunbit
+- name: docker.io/opsmx11/dev-petclinic-demo
   newTag: 39-critical
