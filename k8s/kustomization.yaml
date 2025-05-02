@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-petclinic-demo
+- name: docker.io/opsmx11/dev-petclinic-uatdemo
   newTag: 61-critical
