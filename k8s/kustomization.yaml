@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmx11/dev-petclinic-uatdemo
-  newTag: 33-critical
+  newTag: 34-nocritical
